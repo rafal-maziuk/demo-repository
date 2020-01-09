@@ -1,5 +1,3 @@
-package weekend_12_13_XX.zad_1_ChuckNorris;
-
 import com.google.gson.Gson;
 
 import java.io.IOException;
