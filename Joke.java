@@ -1,5 +1,3 @@
-package weekend_12_13_XX.zad_1_ChuckNorris;
-
 public class Joke {
     private String id;
     private String value;
